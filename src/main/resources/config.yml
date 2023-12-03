@@ -1,0 +1,4 @@
+#当倒计时结束时
+#执行命令
+commands:
+  - "say hello &con"
